@@ -1,0 +1,167 @@
+# Credits
+
+Word frequencies: Hermit Dave, [FrequencyWords](https://github.com/hermitdave/FrequencyWords) (OpenSubtitles 2018), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), grouped by dictionary form by Tres. Some meanings adapted from Wiktionary (English Wiktionary contributors, [wiktionary.org](https://en.wiktionary.org/)), shortened by Tres, CC BY-SA 4.0; the rest are Tres’s own. This list and the CSV are shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Examples from public-domain stories and from Global Voices and Wikinoticias articles, credited under each one.
+
+Page: https://learntres.com/articles/most-common-spanish-words/
+
+## Example sentences
+
+Each example in `most-common-spanish-words.csv` is credited on its row (`example_from`). The 157 texts they come from:
+
+- Amado Nervo, Perlas negras (public domain)
+- Ameya Nagarajan, Casos de éxito climático: Una agradable sorpresa, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/06/21/casos-de-exito-climatico-una-agradable-sorpresa/
+- Andrea Paola Hernandez, Venezuela está en llamas, y debo verlo desde lejos, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/31/venezuela-esta-en-llamas-y-debo-verlo-desde-lejos/
+- Angélica Palma, La desventura de luisa (public domain)
+- Angélica Palma, Las angustias de mi protegida (public domain)
+- Angélica Palma, Las inquietudes de petrona (public domain)
+- Arzu Geybullayeva, Cursi exorcismo televisivo se apodera de las redes sociales turcas, Global Voices, CC BY 3.0, https://es.globalvoices.org/2022/07/03/cursi-exorcismo-televisivo-se-apodera-de-las-redes-sociales-turcas/
+- Arzu Geybullayeva, Tenista turca Zeynep Sönmez se despide de Wimbledon con orgullo, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/07/22/tenista-turca-zeynep-sonmez-se-despide-de-wimbledon-con-orgullo/
+- Badr Sellak, Mientras el escenario musical de Casablanca crece, sus músicos enfrentan dificultades, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/18/mientras-el-escenario-musical-de-casablanca-crece-sus-musicos-enfrentan-dificultades/
+- Baldomero Lillo, Inamible (public domain)
+- Bernye Joel Herrera, Relato desde el exilio: No podemos medir el valor de lo que nos quitaron, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/05/13/relato-desde-el-exilio-no-podemos-medir-el-valor-de-lo-que-nos-quitaron/
+- Bijoy, Regreso de una pionera: El recorrido de Sagorika como estrella del fútbol femenino en Bangladesh, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/11/05/regreso-de-una-pionera-el-recorrido-de-sagorika-como-estrella-del-futbol-femenino-en-bangladesh/
+- Carlos E. Flores, ¿Quién está hablando de Inteligencia Artificial en Ecuador?, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/06/08/quien-esta-hablando-de-inteligencia-artificial-en-ecuador/
+- Carlos E. Flores, La lucha de Ecuador para mantener grasas trans industriales fuera de los supermercados, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/12/la-lucha-de-ecuador-para-mantener-grasas-trans-industriales-fuera-de-los-supermercados/
+- Civic Media Observatory and Samanta Azpurua, Equiparar la protesta con el terrorismo: Un discurso contra la disidencia, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/07/equiparar-la-protesta-con-el-terrorismo-un-discurso-contra-la-disidencia/
+- Civic Media Observatory and Samanta Azpurua, La ciudadanía como arma: En Nicaragua, se silencia el desacuerdo, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/08/01/la-ciudadania-como-arma-en-nicaragua-se-silencia-el-desacuerdo/
+- Cool Earth, Pueblos indígenas peruanos en Cutivireni y Oviri toman medidas contra incendios forestales en la Amazonía, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/16/pueblos-indigenas-peruanos-en-cutivireni-y-oviri-toman-medidas-contra-incendios-forestales-en-la-amazonia/
+- Cristina Agustina Álvarez Díaz, Preservar la lengua a través de los sabores, Ska´b Xchepa Us, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/11/26/preservar-la-lengua-a-traves-de-los-sabores-skab-xchepa-us/
+- Eddie Galdamez, Elevados precios de viviendas en El Salvador perjudican a lugareños, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/06/19/elevados-precios-de-viviendas-en-el-salvador-perjudican-a-lugarenos/
+- Elías Haig, Venezuela: Un invierno sin fin, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/01/30/venezuela-un-invierno-sin-fin/
+- Emilia Pardo Bazán, Champagne (public domain)
+- Emilia Pardo Bazán, Delincuente honrado (public domain)
+- Emilia Pardo Bazán, Sara y Agar (public domain)
+- Estefanía Salazar, ¿Dónde está Carlos Correa? Desconocidos se llevan a activista venezolano en el centro de Caracas, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/01/09/donde-esta-carlos-correa-desconocidos-se-llevan-a-activista-venezolano-en-el-centro-de-caracas/
+- Estefanía Salazar, Constructores de paz: Conoce a los venezolanos que luchan por liberar a los presos políticos, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/01/17/los-pacificadores-conoce-a-los-venezolanos-que-luchan-por-liberar-a-los-presos-politicos/
+- Estefanía Salazar, Iniciativas ciudadanas lideran los trabajos tras fuertes terremotos en Venezuela, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/07/iniciativas-ciudadanas-lideran-los-trabajos-tras-fuertes-terremotos-en-venezuela/
+- Estefanía Salazar, Muerte de incansable madre reabre herida de la represión política en Venezuela, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/05/25/muerte-de-incansable-madre-reabre-herida-de-la-represion-politica-en-venezuela/
+- Exile Hub, Historia de un periodista birmano exiliado: Eco de la voz y resiliencia popular, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/19/historia-de-un-periodista-birmano-exiliado-eco-de-la-voz-y-resiliencia-popular/
+- Fabricio Cordido, Colombia, primer país latinoamericano que prohíbe mutilación genital femenina, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/09/colombia-se-convierte-en-el-primer-pais-latinoamericano-en-prohibir-la-mutilacion-genital-femenina/
+- Fabricio Cordido, Jóvenes venezolanos en Argentina enfrentan desafíos de integración en trabajo, salud y educación, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/07/23/jovenes-en-busca-de-trabajo-el-perfil-de-la-migracion-venezolana-en-argentina/
+- Fabricio Cordido, Setenta años después, la justicia argentina condena al Estado por la Operación Masacre, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/17/setenta-anos-despues-la-justicia-argentina-condena-al-estado-por-la-operacion-masacre/
+- Felipe Trigo, Mi prima me odia (public domain)
+- Felipe Trigo, Pruebas de amor (public domain)
+- Fernanda Canofre, Entre presiones políticas y económicas, Brasil registra aumento de conflictos por tierras y asesinatos de indígenas, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/08/23/entre-presiones-politicas-y-economicas-brasil-registra-aumento-de-conflictos-por-tierras-y-asesinatos-de-indigenas/
+- Gabriela García Calderón Orbe, ‘La revolución la están haciendo ellas’: Cómo un periodista peruano visibiliza el trabajo de las mujeres, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/03/11/la-revolucion-la-estan-haciendo-ellas-como-un-periodista-peruano-visibiliza-el-trabajo-de-las-mujeres/
+- Gabriela García Calderón Orbe, «Un grupo de lectura aporta conversación, sorpresa, desafío, compromiso emocional»: Leer en tiempos de IA, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/02/12/un-grupo-de-lectura-aporta-conversacion-sorpresa-desafio-compromiso-emocional-leer-en-tiempos-de-ia/
+- Gabriela Mesones Rojo and Andrea Paola Hernandez, Por qué los terremotos de Venezuela fueron tan devastadores: Geología, vulnerabilidad y años de descuido estructural, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/15/por-que-los-terremotos-de-venezuela-fueron-tan-devastadores-geologia-vulnerabilidad-y-anos-de-descuido-estructural/
+- Gabriela Mesones Rojo and Estefanía Salazar, Sigue la noticia: Periodistas locales, medios y activistas que informan sobre los terremotos en Venezuela, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/12/sigue-la-noticia-periodistas-locales-medios-y-activistas-que-informan-sobre-los-terremotos-en-venezuela/
+- Gabriela Mesones Rojo and Kelly Chaib De Mares, Basura y dignidad: Aumentan proyectos de reciclaje inclusivo en Latinoamérica, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/06/15/basura-y-dignidad-aumentan-de-proyectos-de-reciclaje-inclusivo-en-latinoamerica/
+- Gabriela Mesones Rojo, Un nuevo y aterrador sonido, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/01/07/un-nuevo-y-aterrador-sonido/
+- Gina Yauri, Ecuador detiene a exministro José Serrano tras deportación de Estados Unidos, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/09/19/ecuador-detiene-a-exministro-jose-serrano-tras-deportacion-de-estados-unidos/
+- Global Voices Brazil, Brasil lucirá el número 24 en la cancha en el Mundial 2026, y eso transmite un mensaje, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/06/11/brasil-lucira-el-numero-24-en-la-cancha-en-el-mundial-2026-y-eso-transmite-un-mensaje/
+- Global Voices Eurasia, Sin educación para las niñas, Afganistán pierde la oportunidad de un mañana mejor, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/09/23/sin-educacion-para-las-ninas-afganistan-pierde-la-oportunidad-de-un-manana-mejor/
+- Global Voices Latin America, Cuando se trata de islas Malvinas, un nombre es más que un nombre para los argentinos, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/07/24/cuando-se-trata-de-islas-malvinas-un-nombre-es-mas-que-un-nombre-para-los-argentinos/
+- Global Voices Latin America, Uruguay es el primer país latinoamericano en aprobar legislación que permite la eutanasia, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/10/24/uruguay-es-el-primer-pais-latinoamericano-en-aprobar-legislacion-que-permite-la-eutanasia/
+- Global Voices Latin America, Venezuela después de Maduro: Liderazgo del país sudamericano parece incierto, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/01/08/venezuela-despues-de-maduro-liderazgo-del-pais-sudamericano-parece-incierto/
+- Godofredo Daireaux, El lagarto (public domain)
+- Godofredo Daireaux, El perro fiel (public domain)
+- Godofredo Daireaux, El perro y el zorro (public domain)
+- Godofredo Daireaux, La mariposa y las abejas (public domain)
+- Godofredo Daireaux, Las dos manos (public domain)
+- Godofredo Daireaux, Los gatitos en la escuela (public domain)
+- Hilal Sahin, La seguridad que no vemos: Llamado a la solidaridad, no a la compasión, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/12/10/la-seguridad-que-no-vemos-llamado-a-la-solidaridad-no-a-la-compasion/
+- Horacio Quiroga, Cuentos de la selva (public domain)
+- Horacio Quiroga, El almohadón de pluma (public domain)
+- Horacio Quiroga, El desierto (public domain)
+- Horacio Quiroga, El hombre muerto (public domain)
+- Horacio Quiroga, Juan Darién (public domain)
+- Horacio Quiroga, Tacuara-Mansión (public domain)
+- Horacio Quiroga, Van-Houten (public domain)
+- Jacobo Nájera, Gobierno de México desbloquea parcialmente la Internet segura, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/03/03/gobierno-de-mexico-desbloquea-parcialmente-la-internet-seguramexican-government-partially-unblocks-secure-internet/
+- Janine Mendes-Franco, «La luz nos engaña»: Objetos sagrados, fruto de la tierra», del fotógrafo trinitense Marlon Rouse, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/01/17/la-luz-nos-engana-objetos-sagrados-fruto-de-la-tierra-del-fotografo-trinitense-marlon-rouse/
+- Janine Mendes-Franco, Cuando se trata de FOMO, en Trinidad y Tobago la lucha es real, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/01/23/cuando-se-trata-de-fomo-en-trinidad-y-tobago-la-lucha-es-real/
+- Janine Mendes-Franco, El Caribe observa de cerca al huracán Erin, primera gran tormenta de la temporada de huracanes del Atlántico 2025, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/08/19/el-caribe-observa-de-cerca-al-huracan-erin-primera-gran-tormenta-de-la-temporada-de-huracanes-del-atlantico-2025/
+- Johana Fernanda Sánchez Jaramillo, Desde Colombia: Un manifiesto de amor para todos los vivientes, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/03/19/desde-colombia-un-manifiesto-de-amor-para-todos-los-vivientes/
+- José Martí, A los niños que lean La Edad de Oro (public domain)
+- José Martí, Bebé y el señor don Pomposo (public domain)
+- José Martí, Cuentos de elefantes (public domain)
+- José Martí, El Padre las Casas (public domain)
+- José Martí, Historia de la cuchara y el tenedor (public domain)
+- José Martí, La galería de las máquinas (public domain)
+- José Martí, La historia del hombre, contada por sus casas (public domain)
+- José Martí, La Ilíada de Homero (public domain)
+- José Martí, La muñeca negra (public domain)
+- José Martí, La última página (public domain)
+- José Martí, Las ruinas indias (public domain)
+- José Martí, Los zapaticos de rosa (public domain)
+- José Martí, Músicos, poetas y pintores (public domain)
+- José Martí, Nené traviesa (public domain)
+- José Martí, Tres héroes (public domain)
+- José Martí, Un juego nuevo y otros viejos (public domain)
+- José Martí, Un paseo por la tierra de los anamitas (public domain)
+- José S. Álvarez (Fray Mocho), ¿no es verdá, nena? (public domain)
+- José S. Álvarez (Fray Mocho), A la hora del té (public domain)
+- José S. Álvarez (Fray Mocho), El cazador de tigres (public domain)
+- José S. Álvarez (Fray Mocho), Frente a frente (public domain)
+- José S. Álvarez (Fray Mocho), Pechadores (public domain)
+- José S. Álvarez (Fray Mocho), Regalos de boda (public domain)
+- Jude Pierre Louis, En tiempos turbulentos, el fútbol lleva esperanza a Haití, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/16/en-tiempos-turbulentos-el-futbol-lleva-esperanza-a-haiti/
+- Kwasi Cudjoe, Estados de emergencia y el reto del desarrollo en el Caribe, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/08/19/estados-de-emergencia-y-el-reto-del-desarrollo-en-el-caribe/
+- Lauren Franco, Vivir «al día» en Pereira: Sobrevivientes olvidados del terremoto de Colombia, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/09/12/vivir-al-dia-en-pereira-sobrevivientes-olvidados-del-terremoto-de-colombia/
+- Leopoldo Alas (Clarín), De burguesa á cortesana (public domain)
+- Leopoldo Alas (Clarín), Doble vía (public domain)
+- Leopoldo Alas (Clarín), El viejo y la niña (public domain)
+- Leopoldo Alas (Clarín), Jorge (public domain)
+- Leopoldo Alas (Clarín), La contribución (public domain)
+- Leopoldo Alas (Clarín), La perfecta casada (public domain)
+- Leopoldo Alas (Clarín), Los señores de casabierta (public domain)
+- Leopoldo Alas (Clarín), Nuevo contrato (public domain)
+- Manuel De Jesús Pérez Pérez, La preservación de la cosmovisión tsotsil con videojuegos, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/11/15/la-preservacion-de-la-cosmovision-tsotsil-en-las-infancias/
+- Marco Martínez, Sydney Allen and Cecilia Tuyuc Us, La mercantilización de culturas y tradiciones indígenas, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/09/22/la-mercantilizacion-de-culturas-y-tradiciones-indigenas/
+- Mario Valdivia, ¿Cuánto costará reconstruir Venezuela tras los terremotos?, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/26/cuanto-costara-reconstruir-venezuela-tras-los-terremotos/
+- Marlene Sánchez Guzmán, La preservación de la lengua ch'ol a través del teatro y los medios digitales, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/11/12/la-preservacion-de-la-lengua-chol-a-traves-del-teatro-y-los-medios-digitales/
+- Melissa Vida and Romina Navarro, «Abuelalalalalala» se hace viral en Argentina tras el triunfo en el Mundial, Global Voices, CC BY 3.0, https://es.globalvoices.org/2022/12/28/la-abuelalalalalala-se-hace-viral-en-argentina-tras-el-triunfo-en-el-mundial/
+- Mi Historia, El día que el conflicto armado me robó a mi hermano, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/04/01/el-dia-que-el-conflicto-armado-me-robo-a-mi-hermano/
+- Mi Historia, En los Llanos Orientales, la seducción también es un arma de guerra, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/03/26/en-los-llanos-orientales-la-seduccion-tambien-es-un-arma-de-guerra/
+- Mi Historia, Entre la xenofobia y la solidaridad: mi historia de migración a Colombia, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/10/17/entre-la-xenofobia-y-la-solidaridad-mi-historia-de-migracion-a-colombia/
+- Mi Historia, Más allá de las estadísticas: Mi historia contra el embarazo adolescente, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/03/24/mas-alla-de-las-estadisticas-mi-historia-contra-el-embarazo-adolescente/
+- Mi Historia, Mi historia de superación frente a la violencia del narcotráfico en Colombia, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/03/19/mi-historia-de-superacion-frente-a-la-violencia-del-narcotrafico-en-colombia/
+- Miguel de Unamuno, Al correr los años (public domain)
+- Miguel de Unamuno, Cruce de caminos (public domain)
+- Miguel de Unamuno, Del odio a la piedad (public domain)
+- Miguel de Unamuno, El abejorro (public domain)
+- Miguel de Unamuno, El amor que asalta (public domain)
+- Miguel de Unamuno, El espejo de la muerte (public domain)
+- Miguel de Unamuno, La beca (public domain)
+- Miguel de Unamuno, Soledad (public domain)
+- Nehemias Chable Hau, Soñar en nuestra propia voz, Ba’axo’ob yéetel bix k’ajotanil in kaajal, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/11/28/sonar-en-nuestra-propia-voz-baaxoob-yeetel-bix-kajotanil-in-kaajal/
+- Nepali Times, Calienta mis manos: La historia de una recién casada nepalí, Global Voices, CC BY 3.0, https://es.globalvoices.org/2024/01/11/calienta-mis-manos-la-historia-de-una-recien-casada-nepali/
+- Nicole Froio, Ataques a identidades trans se han convertido en herramienta política estratégica en Brasil, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/05/22/ataques-a-identidades-trans-se-han-convertido-en-herramienta-politica-estrategica-en-brasil/
+- Omarela Depablos, Tras terremotos en Venezuela, niños enfrentan traumas, desplazamiento e inseguridad alimentaria, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/08/28/tras-terremotos-en-venezuela-ninos-enfrentan-traumas-desplazamiento-e-inseguridad-alimentaria/
+- Patricia Larrús, Cómo la serie ‘El Eternauta’ reavivó las búsquedas por desaparecidos en Argentina, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/08/02/como-la-serie-el-eternauta-reavivo-las-busquedas-por-desaparecidos-en-argentina/
+- Rafael Pombo, La pobre viejecita (public domain)
+- Rafael Pombo, Mirringa Mirronga (public domain)
+- Ramón A. Laval, El cuerpo sin alma (public domain)
+- Ramón A. Laval, El miñaco (public domain)
+- Ramón A. Laval, El pescadito encantado (public domain)
+- Ramón A. Laval, La laguna de las tres pascualas (public domain)
+- Ramón A. Laval, La lorita encantada (public domain)
+- Ramón A. Laval, La rana castigada (public domain)
+- Ramón A. Laval, Las doce palabras redobladas (public domain)
+- Redsonadoras, A un mes de los terremotos en Venezuela: «No me voy hasta que no encuentren a mi hijo», Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/08/11/a-un-mes-de-los-terremotos-en-venezuela-no-me-voy-hasta-que-no-encuentren-a-mi-hijo/
+- Revista Emancipa, De Ciudad Juárez a Latinoamérica: El legado de «Ni una menos», Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/06/11/de-ciudad-juarez-a-latinoamerica-el-legado-de-ni-una-menos/
+- Ricardo Palma, Amor de madre (public domain)
+- Ricardo Palma, El Peje chico (public domain)
+- Ricardo Palma, El resucitado (public domain)
+- Ricardo Palma, El tamborcito del pirata (public domain)
+- Ricardo Palma, La emplazada (public domain)
+- Ricardo Palma, Los duendes del Cuzco (public domain)
+- Ricardo Palma, Los polvos de la condesa (public domain)
+- Ricardo Palma, Pan, queso y raspadura (public domain)
+- Ricardo Palma, Tradiciones peruanas: primera serie (public domain)
+- Romina Navarro, Belen Febres and Melissa Vida, Año nuevo, vida nueva: Recibe el 2023 con estas tradiciones alegres de Latinoamérica, Global Voices, CC BY 3.0, https://es.globalvoices.org/2022/12/20/ano-nuevo-vida-nueva-recibe-el-2023-con-estas-tradiciones-alegres-de-latinoamerica/
+- Rubén Darío, Cuento de Pascua (public domain)
+- Rubén Darío, El caso de la señorita Amelia (public domain)
+- Rubén Darío, La extraña muerte de Fray Pedro (public domain)
+- Rufino Blanco-Fombona, La confesion del tullido (public domain)
+- Samanta Azpurua and Vicente Canché Móo, Una narrativa de venta: La comercialización de las identidades mayas, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/07/02/una-narrativa-de-venta-la-comercializacion-de-las-identidades-mayas/
+- Samanta Azpurua, ‘¿Sueño americano? No, sueño latino.’ El poema que llega a los corazones de personas migrantes, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/02/05/sueno-americano-no-sueno-latino-el-poema-que-llega-a-los-corazones-de-personas-migrantes/
+- Saúl Zerpa, «El suspiro de la Tierra». Fragmentos de comunidades olvidadas tras los terremotos de Venezuela, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/08/16/el-suspiro-de-la-tierra-fragmentos-de-comunidades-olvidadas-tras-los-terremotos-de-venezuela/
+- Subhashish Panigrahi, ¿Quien es responsable de proteger y preservar las culturas indígenas?, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/19/quien-es-responsable-de-proteger-y-preservar-las-culturas-indigenas/
+- Wikinoticias contributors, Concluye rescate de víctimas de explosión en mina colombiana, Wikinoticias, CC BY 2.5, https://es.wikinews.org/wiki/Concluye_rescate_de_v%C3%ADctimas_de_explosi%C3%B3n_en_mina_colombiana
+- Wikinoticias contributors, Nueva avalancha en Colombia dejó por lo menos 17 muertos, Wikinoticias, CC BY 2.5, https://es.wikinews.org/wiki/Nueva_avalancha_en_Colombia_dej%C3%B3_por_lo_menos_17_muertos
+- Xime Yauca, Centro Cultural y de Cooperación Iraní fue blanco de ataques por seguidores de Netanyahu y Trump en Ecuador, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/03/07/centro-cultural-y-de-cooperacion-irani-fue-blanco-de-ataques-por-seguidores-de-netanyahu-y-trump-en-ecuador/
+- Xime Yauca, Nepal, un viaje a la bondad que me enamoró, Global Voices, CC BY 3.0, https://es.globalvoices.org/2025/12/19/nepal-un-viaje-a-la-bondad-que-me-enamoro/
+- Zulker Naeen, La tecnología al servicio del tráfico humano: Migrantes de Bangladesh se convierten en víctimas de captación en Camboya, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/16/la-tecnologia-al-servicio-del-trafico-humano-migrantes-de-bangladesh-se-convierten-en-victimas-de-captacion-en-camboya/
+- পান্থ রহমান রেজা (Pantha), Bangladesh Las protestas pueden cambiar gobiernos ¿pero pueden fortalecer la democracia?, Global Voices, CC BY 3.0, https://es.globalvoices.org/2026/10/15/bangladesh-las-protestas-pueden-cambiar-gobiernos-pero-pueden-fortalecer-la-democracia/
